@@ -1,0 +1,1 @@
+https://www.mkyong.com/mongodb/spring-data-mongodb-query-document/
